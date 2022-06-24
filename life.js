@@ -1,4 +1,11 @@
-let myname = 'Julia';
-console.log(myname);
+let myName = 'Mbamarah Julia';
+console.log(myName);
 
-alert('Mbamarah Julia, Nigeria, 6ft.');
+let myCountry = 'Nigeria';
+console.log(myCountry);
+
+let myHeight = '6ft'
+
+alert(myName + myCountry + myHeight);
+
+document.write(myName, myCountry, myHeight);
